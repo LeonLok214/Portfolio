@@ -1,0 +1,6 @@
+storeDir: .pnpm-store
+cacheDir: .pnpm-cache
+nodeLinker: hoisted
+confirmModulesPurge: false
+allowBuilds:
+  esbuild: true
